@@ -8,7 +8,7 @@ Bem-vindo ao nosso **Curso Abrangente de Desenvolvimento Web com Node.js**! Se v
 
 ### O que estou estudando:
 
-1. ** Fundamentos do Node.js**: Começaremos do zero, cobrindo os conceitos fundamentais do Node.js, incluindo módulos, pacotes e a arquitetura baseada em eventos que torna o Node.js tão eficiente.
+1. **Fundamentos do Node.js**: Começaremos do zero, cobrindo os conceitos fundamentais do Node.js, incluindo módulos, pacotes e a arquitetura baseada em eventos que torna o Node.js tão eficiente.
 
 2. **Construção de Servidores Web**: Você aprenderá como criar e configurar um servidor web utilizando Node.js, aproveitando seus recursos assíncronos para lidar com um grande número de solicitações simultâneas.
 
