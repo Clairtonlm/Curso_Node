@@ -8,7 +8,7 @@ app.get("/", function(req, res){
 
 app.delete("/user", function(req, res){
     res.send({
-        nome: "JOse deletado"
+        nome: "Jose deletado"
         
     })
 });
