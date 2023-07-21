@@ -1,3 +1,4 @@
+let nome = "Minha calculadora V.01"
 function soma(a, b){
     return a + b
 }
@@ -18,7 +19,8 @@ module.exports = {
     soma,
     mult,
     divisao,
-    sub
+    sub,
+    nome
 
 }
  
