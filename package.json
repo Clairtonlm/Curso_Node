@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "curso_node",
+  "description": "Bem-vindo ao nosso **Curso Abrangente de Desenvolvimento Web com Node.js**! Se você deseja aprofundar seus conhecimentos em programação e construir aplicações web robustas e escaláveis.",
+  "version": "1.0.0",
+  "main": "teste.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clairtonlm/Curso_Node.git"
+  },
+  "author": "Clairton_Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clairtonlm/Curso_Node/issues"
+  },
+  "homepage": "https://github.com/Clairtonlm/Curso_Node#readme"
+}
