@@ -6,7 +6,6 @@
   "description": "Bem-vindo ao nosso **Curso Abrangente de Desenvolvimento Web com Node.js**! Se você deseja aprofundar seus conhecimentos em programação e construir aplicações web robustas e escaláveis.",
   "version": "1.0.0",
   "main": "teste.js",
-  "devDependencies": {},
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
