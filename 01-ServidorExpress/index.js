@@ -2,6 +2,10 @@
 const express = require("express");
 const app = express();
 
+//Iniciando Rotas
+app.get("/", function(req, res){
+    res.send("Bem vindo ao curso de Node")
+});
 
 
 
