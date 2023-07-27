@@ -4,7 +4,7 @@ const app = express();
 
 //Iniciando Rotas
 app.get("/", function(req, res){
-    res.send("Bem vindo ao curso de Node")
+    res.send("<h1>Bem vindo ao curso de Node</h1>")
 });
 
 
@@ -19,6 +19,6 @@ app.listen(8080, function(erro){
     if(erro){
         console.log("Aconteceu um erro");
     }else{
-        console.log("Conectado com sucesso!!!");
+        console.log(" Servidor Conectado com sucesso!!!");
     }
 })
