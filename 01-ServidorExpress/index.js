@@ -22,6 +22,16 @@ app.get("/blog/:artigo?", function(req, res){
         res.send("Usuário  nao passou artigo")
     }
 });
+//query params
+app.get("/canal/youtube", function(req, res){
+    var canal= req.query["canal"]
+    if(canal){
+        res.send(canal)
+    }else{
+        res.send("NUnhum canal fornecido")
+    }
+    
+});
 
 
 
