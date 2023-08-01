@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/Clairtonlm/Curso_Node/issues"
   },
-  "homepage": "https://github.com/Clairtonlm/Curso_Node#readme"
+  "homepage": "https://github.com/Clairtonlm/Curso_Node#readme",
+  "keywords": []
 }
